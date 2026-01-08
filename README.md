@@ -245,7 +245,7 @@ Data Scientist | Machine Learning Engineer
 - 📧 Email: moehab1532002@gmail.com  
 - 📱 Phone: +20 109 014 6607  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ehab-7b91092b3  
-- 🐙 GitHub: https://github.com/Mohamedehabb
+- 🐙 GitHub: https://github.com/Mohamedehabbb
 
 ⭐ *This project demonstrates a professional, end-to-end approach to regression modeling with a strong focus on business impact and interpretability.*
 
