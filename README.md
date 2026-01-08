@@ -247,7 +247,7 @@ Data Scientist | Machine Learning Engineer
 * 📧 Email: [moehab1532002@gmail.com](mailto:moehab1532002@gmail.com)
 * 📱 Phone: +20 109 014 6607
 * 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-ehab-7b91092b3](https://www.linkedin.com/in/mohamed-ehab-7b91092b3)
-* 🐙 GitHub: [https://github.com/mohamed-ehab](https://github.com/mohamed-ehab)
+* 🐙 GitHub: [https://github.com/mohamed-ehab]([https://github.com/mohamed-ehab](https://github.com/Mohamedehabbb))
 
 ---
 
