@@ -237,18 +237,18 @@ A Streamlit dashboard was developed to:
 * Visualize actual vs predicted values
 * Display feature importance dynamically
 
----
-
 ## 👤 Author
 
-**Mohamed Ehab**
+**Mohamed Ehab**  
 Data Scientist | Machine Learning Engineer
 
-* 📧 Email: [moehab1532002@gmail.com](mailto:moehab1532002@gmail.com)
-* 📱 Phone: +20 109 014 6607
-* 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-ehab-7b91092b3](https://www.linkedin.com/in/mohamed-ehab-7b91092b3)
-* 🐙 GitHub: [https://github.com/mohamed-ehab]([https://github.com/mohamed-ehab](https://github.com/Mohamedehabbb))
+- 📧 Email: moehab1532002@gmail.com  
+- 📱 Phone: +20 109 014 6607  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ehab-7b91092b3  
+- 🐙 GitHub: https://github.com/Mohamedehabb
+
+⭐ *This project demonstrates a professional, end-to-end approach to regression modeling with a strong focus on business impact and interpretability.*
+
 
 ---
 
-⭐ *This project demonstrates a professional, end-to-end approach to regression modeling with a strong focus on business impact and interpretability.*
