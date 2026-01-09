@@ -246,6 +246,10 @@ Data Scientist | Machine Learning Engineer
 - 📱 Phone: +20 109 014 6607  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ehab-7b91092b3  
 - 🐙 GitHub: https://github.com/Mohamedehabbb
+- ## 🔗 Kaggle Notebook
+You can view the complete notebook and full execution on Kaggle:  
+👉 https://www.kaggle.com/code/mohamedehaab/tv-marketing-sales-prediction-advanced-regression
+
 
 ⭐ *This project demonstrates a professional, end-to-end approach to regression modeling with a strong focus on business impact and interpretability.*
 
